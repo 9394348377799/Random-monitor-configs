@@ -6,6 +6,6 @@ HOW TO USE:
 - In ResolutionChanger.bat, feel free to change the resolutions to whatever you like or need. Afterall, this depends on your monitors aspect ratio.
 
 AFTER INSTALL:
-- Firstly, open the "enabler.bat". This will either enable, or disable your monitor.
-- Secondly, open the ResolutionChanger.bat, and select your desired resoltion.
+- Firstly, open the ResolutionChanger.bat, and select your desired resoltion.
+- Secondly, open the "enabler.bat". This will either enable, or disable your monitor.
 - Thirdly, you're all done!
