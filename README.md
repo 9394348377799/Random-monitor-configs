@@ -5,7 +5,11 @@ HOW TO USE:
 
 - In ResolutionChanger.bat, feel free to change the resolutions to whatever you like or need. Afterall, this depends on your monitors aspect ratio.
 
+- In toggle_monitor.ps1, you will have to input your own monitor, and monitorID. Mine is only there for example.
+
 AFTER INSTALL:
 - Firstly, open the ResolutionChanger.bat, and select your desired resoltion.
+
 - Secondly, open the "enabler.bat". This will either enable, or disable your monitor to windows eyes. Your Internal and External monitor will still work and display.
+
 - Thirdly, you're all done!

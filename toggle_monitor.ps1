@@ -1,5 +1,7 @@
 # toggle_monitor.ps1
-$MonitorId = "DISPLAY\TMX1401\5&1F08C561&0&UID256"
+$MonitorId = "__"
+
+# Example: "DISPLAY\TMX1401\5&1F08C561&0&UID256"
 
 # Get current status
 $device = Get-PnpDevice -InstanceId $MonitorId
