@@ -7,5 +7,5 @@ HOW TO USE:
 
 AFTER INSTALL:
 - Firstly, open the ResolutionChanger.bat, and select your desired resoltion.
-- Secondly, open the "enabler.bat". This will either enable, or disable your monitor.
+- Secondly, open the "enabler.bat". This will either enable, or disable your monitor to windows eyes. Your Internal and External monitor will still work and display.
 - Thirdly, you're all done!
